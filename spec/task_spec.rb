@@ -10,7 +10,6 @@ RSpec.configure do |config|
   end
 end
 
-
 describe(Task) do
   before() do
     Task.clear()
